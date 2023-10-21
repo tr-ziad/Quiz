@@ -10,7 +10,7 @@ import './assets/css/style.css';
 import './assets/css/responsive.css';
 import './assets/css/animation.css';
 import './assets/css/result_style.css';
-import './assets/js/jQuery/jquery-3.6.3.min.js';
+// import './assets/js/jQuery/jquery-3.6.3.min.js';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
