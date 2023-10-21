@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/tr-ziad/Quiz/static/css/main.867009d4.css",
+    "main.js": "/tr-ziad/Quiz/static/js/main.82f99b7c.js",
+    "static/media/guy-thinking.png": "/tr-ziad/Quiz/static/media/guy-thinking.6057ad2d52f50d7296a8.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/tr-ziad/Quiz/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/tr-ziad/Quiz/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/tr-ziad/Quiz/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/tr-ziad/Quiz/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/tr-ziad/Quiz/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/bg.png": "/tr-ziad/Quiz/static/media/bg.3698f9056afa422bd535.png",
+    "static/media/MYRIADPRO-SEMIBOLDIT.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-SEMIBOLDIT.6c2fc81965f1441fab3c.woff",
+    "static/media/MYRIADPRO-BOLDIT.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-BOLDIT.6cb2210ee930e21f6cbb.woff",
+    "static/media/MYRIADPRO-BOLDCONDIT.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-BOLDCONDIT.63cfcd40600da34eb20e.woff",
+    "static/media/MYRIADPRO-CONDIT.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-CONDIT.dcf082412ba7b1b6f1d9.woff",
+    "static/media/MYRIADPRO-BOLD.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-BOLD.1c6432261fa438517e63.woff",
+    "static/media/MYRIADPRO-SEMIBOLD.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-SEMIBOLD.230dfc3b5ac4fb7a87a3.woff",
+    "static/media/MYRIADPRO-REGULAR.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-REGULAR.d30b05461519da431d12.woff",
+    "static/media/MYRIADPRO-BOLDCOND.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-BOLDCOND.79d01fda9157ace923c6.woff",
+    "static/media/MyriadPro-Light.woff": "/tr-ziad/Quiz/static/media/MyriadPro-Light.43b72dcd0e748e9d3f5b.woff",
+    "static/media/MYRIADPRO-COND.woff": "/tr-ziad/Quiz/static/media/MYRIADPRO-COND.26dcc00c3d8bf1525cd0.woff",
+    "static/media/result.jpg": "/tr-ziad/Quiz/static/media/result.27c190f8158e5aaa877c.jpg",
+    "static/media/svg1.png": "/tr-ziad/Quiz/static/media/svg1.8e1f7286fe50e199a7f8.png",
+    "static/media/resultinside.jpg": "/tr-ziad/Quiz/static/media/resultinside.fc2a7335d379f5b6957a.jpg",
+    "index.html": "/tr-ziad/Quiz/index.html",
+    "main.867009d4.css.map": "/tr-ziad/Quiz/static/css/main.867009d4.css.map",
+    "main.82f99b7c.js.map": "/tr-ziad/Quiz/static/js/main.82f99b7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.867009d4.css",
+    "static/js/main.82f99b7c.js"
+  ]
+}
